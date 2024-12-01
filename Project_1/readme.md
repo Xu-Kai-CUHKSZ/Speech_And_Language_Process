@@ -1,1 +1,0 @@
-# This the 1st assignment of CSC3160> It includes some basic processing of speech signals.
