@@ -1,1 +1,0 @@
-# Here are three projects and some other material for CSC3160 Fundamentals of Speech and Language Processing.
