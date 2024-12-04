@@ -19,6 +19,7 @@ Course 5: [李宏毅机器学习2023](https://speech.ee.ntu.edu.tw/~hylee/ml/202
 - `N-gram` Model
 ### 4.2 Neural language models (NLM)
 - 神经网络语言模型（NNLM）
+- `CBOW` 和 `SkipGram`
 #### 4.2.1 Word2Vec
 - `CBOW` 和 `SkipGram`
 
